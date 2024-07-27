@@ -1,0 +1,15 @@
+D:\Neto\C# Course\GUN30-RoschinaA\ConsoleRPG\bin\Debug\net8.0\ConsoleRPG.exe
+D:\Neto\C# Course\GUN30-RoschinaA\ConsoleRPG\bin\Debug\net8.0\ConsoleRPG.deps.json
+D:\Neto\C# Course\GUN30-RoschinaA\ConsoleRPG\bin\Debug\net8.0\ConsoleRPG.runtimeconfig.json
+D:\Neto\C# Course\GUN30-RoschinaA\ConsoleRPG\bin\Debug\net8.0\ConsoleRPG.dll
+D:\Neto\C# Course\GUN30-RoschinaA\ConsoleRPG\bin\Debug\net8.0\ConsoleRPG.pdb
+D:\Neto\C# Course\GUN30-RoschinaA\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neto\C# Course\GUN30-RoschinaA\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.AssemblyInfoInputs.cache
+D:\Neto\C# Course\GUN30-RoschinaA\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.AssemblyInfo.cs
+D:\Neto\C# Course\GUN30-RoschinaA\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.csproj.CoreCompileInputs.cache
+D:\Neto\C# Course\GUN30-RoschinaA\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.sourcelink.json
+D:\Neto\C# Course\GUN30-RoschinaA\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.dll
+D:\Neto\C# Course\GUN30-RoschinaA\ConsoleRPG\obj\Debug\net8.0\refint\ConsoleRPG.dll
+D:\Neto\C# Course\GUN30-RoschinaA\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.pdb
+D:\Neto\C# Course\GUN30-RoschinaA\ConsoleRPG\obj\Debug\net8.0\ConsoleRPG.genruntimeconfig.cache
+D:\Neto\C# Course\GUN30-RoschinaA\ConsoleRPG\obj\Debug\net8.0\ref\ConsoleRPG.dll

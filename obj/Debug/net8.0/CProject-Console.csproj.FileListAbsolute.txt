@@ -1,0 +1,15 @@
+D:\Neto\C# Course\GUN30-RoschinaA\obj\Debug\net8.0\CProject-Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neto\C# Course\GUN30-RoschinaA\obj\Debug\net8.0\CProject-Console.AssemblyInfoInputs.cache
+D:\Neto\C# Course\GUN30-RoschinaA\obj\Debug\net8.0\CProject-Console.AssemblyInfo.cs
+D:\Neto\C# Course\GUN30-RoschinaA\obj\Debug\net8.0\CProject-Console.csproj.CoreCompileInputs.cache
+D:\Neto\C# Course\GUN30-RoschinaA\obj\Debug\net8.0\CProject-Console.sourcelink.json
+D:\Neto\C# Course\GUN30-RoschinaA\bin\Debug\net8.0\CProject-Console.exe
+D:\Neto\C# Course\GUN30-RoschinaA\bin\Debug\net8.0\CProject-Console.deps.json
+D:\Neto\C# Course\GUN30-RoschinaA\bin\Debug\net8.0\CProject-Console.runtimeconfig.json
+D:\Neto\C# Course\GUN30-RoschinaA\bin\Debug\net8.0\CProject-Console.dll
+D:\Neto\C# Course\GUN30-RoschinaA\bin\Debug\net8.0\CProject-Console.pdb
+D:\Neto\C# Course\GUN30-RoschinaA\obj\Debug\net8.0\CProject-Console.dll
+D:\Neto\C# Course\GUN30-RoschinaA\obj\Debug\net8.0\refint\CProject-Console.dll
+D:\Neto\C# Course\GUN30-RoschinaA\obj\Debug\net8.0\CProject-Console.pdb
+D:\Neto\C# Course\GUN30-RoschinaA\obj\Debug\net8.0\CProject-Console.genruntimeconfig.cache
+D:\Neto\C# Course\GUN30-RoschinaA\obj\Debug\net8.0\ref\CProject-Console.dll
