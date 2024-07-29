@@ -3,40 +3,32 @@
   "WorkspaceRootPath": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22978264-C4DA-4228-9CA0-B28CA6D5FCA1}|ConsoleRPG\\ConsoleRPG.csproj|d:\\neto\\c# course\\gun30-roschinaa\\consolerpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22978264-C4DA-4228-9CA0-B28CA6D5FCA1}|ConsoleRPG\\ConsoleRPG.csproj|solutionrelative:consolerpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22978264-C4DA-4228-9CA0-B28CA6D5FCA1}|ConsoleRPG\\ConsoleRPG.csproj|d:\\neto\\c# course\\gun30-roschinaa\\consolerpg\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22978264-C4DA-4228-9CA0-B28CA6D5FCA1}|ConsoleRPG\\ConsoleRPG.csproj|solutionrelative:consolerpg\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22978264-C4DA-4228-9CA0-B28CA6D5FCA1}|ConsoleRPG\\ConsoleRPG.csproj|d:\\neto\\c# course\\gun30-roschinaa\\consolerpg\\interval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22978264-C4DA-4228-9CA0-B28CA6D5FCA1}|ConsoleRPG\\ConsoleRPG.csproj|solutionrelative:consolerpg\\interval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22978264-C4DA-4228-9CA0-B28CA6D5FCA1}|ConsoleRPG\\ConsoleRPG.csproj|d:\\neto\\c# course\\gun30-roschinaa\\consolerpg\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22978264-C4DA-4228-9CA0-B28CA6D5FCA1}|ConsoleRPG\\ConsoleRPG.csproj|solutionrelative:consolerpg\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22978264-C4DA-4228-9CA0-B28CA6D5FCA1}|ConsoleRPG\\ConsoleRPG.csproj|d:\\neto\\c# course\\gun30-roschinaa\\consolerpg\\combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22978264-C4DA-4228-9CA0-B28CA6D5FCA1}|ConsoleRPG\\ConsoleRPG.csproj|solutionrelative:consolerpg\\combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22978264-C4DA-4228-9CA0-B28CA6D5FCA1}|ConsoleRPG\\ConsoleRPG.csproj|d:\\neto\\c# course\\gun30-roschinaa\\consolerpg\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22978264-C4DA-4228-9CA0-B28CA6D5FCA1}|ConsoleRPG\\ConsoleRPG.csproj|solutionrelative:consolerpg\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{22978264-C4DA-4228-9CA0-B28CA6D5FCA1}|ConsoleRPG\\ConsoleRPG.csproj|d:\\neto\\c# course\\gun30-roschinaa\\consolerpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22978264-C4DA-4228-9CA0-B28CA6D5FCA1}|ConsoleRPG\\ConsoleRPG.csproj|solutionrelative:consolerpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{22978264-C4DA-4228-9CA0-B28CA6D5FCA1}|ConsoleRPG\\ConsoleRPG.csproj|d:\\neto\\c# course\\gun30-roschinaa\\consolerpg\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22978264-C4DA-4228-9CA0-B28CA6D5FCA1}|ConsoleRPG\\ConsoleRPG.csproj|solutionrelative:consolerpg\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22978264-C4DA-4228-9CA0-B28CA6D5FCA1}|ConsoleRPG\\ConsoleRPG.csproj|d:\\neto\\c# course\\gun30-roschinaa\\consolerpg\\combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22978264-C4DA-4228-9CA0-B28CA6D5FCA1}|ConsoleRPG\\ConsoleRPG.csproj|solutionrelative:consolerpg\\combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{22978264-C4DA-4228-9CA0-B28CA6D5FCA1}|ConsoleRPG\\ConsoleRPG.csproj|d:\\neto\\c# course\\gun30-roschinaa\\consolerpg\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22978264-C4DA-4228-9CA0-B28CA6D5FCA1}|ConsoleRPG\\ConsoleRPG.csproj|solutionrelative:consolerpg\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Neto\\C# Course\\GUN30-RoschinaA\\obj\\Debug\\net8.0\\CProject-Console.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\CProject-Console.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E64A0422-D274-456D-9516-3DDCF1957C20}|CProject-Console.csproj|d:\\neto\\c# course\\gun30-roschinaa\\cproject-console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E64A0422-D274-456D-9516-3DDCF1957C20}|CProject-Console.csproj|solutionrelative:cproject-console.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,30 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CProject-Console.AssemblyInfo.cs",
-              "DocumentMoniker": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\obj\\Debug\\net8.0\\CProject-Console.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\CProject-Console.AssemblyInfo.cs",
-              "ToolTip": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\obj\\Debug\\net8.0\\CProject-Console.AssemblyInfo.cs",
-              "RelativeToolTip": "obj\\Debug\\net8.0\\CProject-Console.AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:35:12.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Weapon.cs",
               "DocumentMoniker": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\ConsoleRPG\\Weapon.cs",
               "RelativeDocumentMoniker": "ConsoleRPG\\Weapon.cs",
               "ToolTip": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\ConsoleRPG\\Weapon.cs",
               "RelativeToolTip": "ConsoleRPG\\Weapon.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwDEAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T15:35:01.72Z",
               "EditorCaption": ""
@@ -82,14 +61,14 @@
               "RelativeDocumentMoniker": "ConsoleRPG\\Unit.cs",
               "ToolTip": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\ConsoleRPG\\Unit.cs",
               "RelativeToolTip": "ConsoleRPG\\Unit.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAmwEkAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T15:34:43.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Rate.cs",
               "DocumentMoniker": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\ConsoleRPG\\Rate.cs",
               "RelativeDocumentMoniker": "ConsoleRPG\\Rate.cs",
@@ -97,8 +76,7 @@
               "RelativeToolTip": "ConsoleRPG\\Rate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:34:27.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T15:34:27.062Z"
             },
             {
               "$type": "Document",
@@ -108,20 +86,20 @@
               "RelativeDocumentMoniker": "ConsoleRPG\\Interval.cs",
               "ToolTip": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\ConsoleRPG\\Interval.cs",
               "RelativeToolTip": "ConsoleRPG\\Interval.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAowAgAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T15:34:04.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Combat.cs",
               "DocumentMoniker": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\ConsoleRPG\\Combat.cs",
               "RelativeDocumentMoniker": "ConsoleRPG\\Combat.cs",
               "ToolTip": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\ConsoleRPG\\Combat.cs",
               "RelativeToolTip": "ConsoleRPG\\Combat.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T15:33:31.907Z",
               "EditorCaption": ""
@@ -136,12 +114,11 @@
               "RelativeToolTip": "ConsoleRPG\\Armor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:33:03.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T15:33:03.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\ConsoleRPG\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleRPG\\Program.cs",
@@ -151,18 +128,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T15:31:39.106Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CProject-Console.csproj",
-              "DocumentMoniker": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\CProject-Console.csproj",
-              "RelativeDocumentMoniker": "CProject-Console.csproj",
-              "ToolTip": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\CProject-Console.csproj",
-              "RelativeToolTip": "CProject-Console.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-26T15:27:28.296Z"
             }
           ]
         }

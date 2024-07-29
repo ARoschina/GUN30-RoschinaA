@@ -57,11 +57,22 @@ namespace ConsoleRPG
         // Receive damage
         public bool SetDamage(float inDamage)
         {
-            if ((realHealth - inDamage / (1 + _helm.Defence + _shell.Defence + _boots.Defence)) > 0)
+            if (_helm != null && _shell != null && _boots != null)
             {
-                return false; // The unit is alive
+                if ((realHealth - inDamage / (1 + _helm.Defence + _shell.Defence + _boots.Defence)) > 0)
+                {
+                    return false; // The unit is alive
+                }
+                else return true; // The unit is dead
             }
-            else return true; // The unit is dead            
+            else
+            {
+                if (realHealth - inDamage > 0)
+                {
+                    return false;
+                }
+                else return true;
+            }
         }
 
         // Giving the unit a weapon
