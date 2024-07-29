@@ -1,0 +1,5 @@
+D:\Neto\C# Course\GUN30-RoschinaA\obj\Debug\net8.0\CProject-Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neto\C# Course\GUN30-RoschinaA\obj\Debug\net8.0\CProject-Console.AssemblyInfoInputs.cache
+D:\Neto\C# Course\GUN30-RoschinaA\obj\Debug\net8.0\CProject-Console.AssemblyInfo.cs
+D:\Neto\C# Course\GUN30-RoschinaA\obj\Debug\net8.0\CProject-Console.csproj.CoreCompileInputs.cache
+D:\Neto\C# Course\GUN30-RoschinaA\obj\Debug\net8.0\CProject-Console.sourcelink.json

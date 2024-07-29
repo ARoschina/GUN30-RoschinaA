@@ -1,0 +1,15 @@
+D:\Neto\C# Course\GUN30-RoschinaA\Collections\bin\Debug\net8.0\Collections.exe
+D:\Neto\C# Course\GUN30-RoschinaA\Collections\bin\Debug\net8.0\Collections.deps.json
+D:\Neto\C# Course\GUN30-RoschinaA\Collections\bin\Debug\net8.0\Collections.runtimeconfig.json
+D:\Neto\C# Course\GUN30-RoschinaA\Collections\bin\Debug\net8.0\Collections.dll
+D:\Neto\C# Course\GUN30-RoschinaA\Collections\bin\Debug\net8.0\Collections.pdb
+D:\Neto\C# Course\GUN30-RoschinaA\Collections\obj\Debug\net8.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Neto\C# Course\GUN30-RoschinaA\Collections\obj\Debug\net8.0\Collections.AssemblyInfoInputs.cache
+D:\Neto\C# Course\GUN30-RoschinaA\Collections\obj\Debug\net8.0\Collections.AssemblyInfo.cs
+D:\Neto\C# Course\GUN30-RoschinaA\Collections\obj\Debug\net8.0\Collections.csproj.CoreCompileInputs.cache
+D:\Neto\C# Course\GUN30-RoschinaA\Collections\obj\Debug\net8.0\Collections.sourcelink.json
+D:\Neto\C# Course\GUN30-RoschinaA\Collections\obj\Debug\net8.0\Collections.dll
+D:\Neto\C# Course\GUN30-RoschinaA\Collections\obj\Debug\net8.0\refint\Collections.dll
+D:\Neto\C# Course\GUN30-RoschinaA\Collections\obj\Debug\net8.0\Collections.pdb
+D:\Neto\C# Course\GUN30-RoschinaA\Collections\obj\Debug\net8.0\Collections.genruntimeconfig.cache
+D:\Neto\C# Course\GUN30-RoschinaA\Collections\obj\Debug\net8.0\ref\Collections.dll

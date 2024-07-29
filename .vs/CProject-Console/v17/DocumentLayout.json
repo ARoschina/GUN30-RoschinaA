@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E64A0422-D274-456D-9516-3DDCF1957C20}|CProject-Console.csproj|d:\\neto\\c# course\\gun30-roschinaa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E64A0422-D274-456D-9516-3DDCF1957C20}|CProject-Console.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1266BBA5-F685-458C-A9FC-116DCB05FE2A}|Collections\\Collections.csproj|d:\\neto\\c# course\\gun30-roschinaa\\collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1266BBA5-F685-458C-A9FC-116DCB05FE2A}|Collections\\Collections.csproj|solutionrelative:collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1266BBA5-F685-458C-A9FC-116DCB05FE2A}|Collections\\Collections.csproj|d:\\neto\\c# course\\gun30-roschinaa\\collections\\listtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1266BBA5-F685-458C-A9FC-116DCB05FE2A}|Collections\\Collections.csproj|solutionrelative:collections\\listtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1266BBA5-F685-458C-A9FC-116DCB05FE2A}|Collections\\Collections.csproj|d:\\neto\\c# course\\gun30-roschinaa\\collections\\dictionarytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1266BBA5-F685-458C-A9FC-116DCB05FE2A}|Collections\\Collections.csproj|solutionrelative:collections\\dictionarytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1266BBA5-F685-458C-A9FC-116DCB05FE2A}|Collections\\Collections.csproj|d:\\neto\\c# course\\gun30-roschinaa\\collections\\linkedlisttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1266BBA5-F685-458C-A9FC-116DCB05FE2A}|Collections\\Collections.csproj|solutionrelative:collections\\linkedlisttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LinkedListTask.cs",
+              "DocumentMoniker": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\Collections\\LinkedListTask.cs",
+              "RelativeDocumentMoniker": "Collections\\LinkedListTask.cs",
+              "ToolTip": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\Collections\\LinkedListTask.cs",
+              "RelativeToolTip": "Collections\\LinkedListTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:32:44.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DictionaryTask.cs",
+              "DocumentMoniker": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\Collections\\DictionaryTask.cs",
+              "RelativeDocumentMoniker": "Collections\\DictionaryTask.cs",
+              "ToolTip": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\Collections\\DictionaryTask.cs",
+              "RelativeToolTip": "Collections\\DictionaryTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:32:22.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListTask.cs",
+              "DocumentMoniker": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\Collections\\ListTask.cs",
+              "RelativeDocumentMoniker": "Collections\\ListTask.cs",
+              "ToolTip": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\Collections\\ListTask.cs",
+              "RelativeToolTip": "Collections\\ListTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:32:10.678Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\Collections\\Program.cs",
+              "RelativeDocumentMoniker": "Collections\\Program.cs",
+              "ToolTip": "D:\\Neto\\C# Course\\GUN30-RoschinaA\\Collections\\Program.cs",
+              "RelativeToolTip": "Collections\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T15:09:48.287Z",
+              "WhenOpened": "2024-07-29T11:30:58.9Z",
               "EditorCaption": ""
             }
           ]

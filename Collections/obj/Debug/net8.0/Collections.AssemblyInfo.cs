@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CProject-Console")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Collections")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e5d6d67ec7760cdab4f7cae49aef742c9513613")]
-[assembly: System.Reflection.AssemblyProductAttribute("CProject-Console")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CProject-Console")]
+[assembly: System.Reflection.AssemblyProductAttribute("Collections")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Collections")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
